@@ -10,5 +10,5 @@
 #¿Cuáles son las secciones de un proyecto bajo control de versiones con Git?
 
 #¿Para qué sirve una bitácora (PostgreSQL y Apache)?
-para ver errores y hacer respaldos
+#para ver errores y hacer respaldos
 examen1
